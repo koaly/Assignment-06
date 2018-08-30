@@ -92,7 +92,7 @@ header a:hover{
     
     min-height: 400px;
     background: url('../img/showcase_music.jpg') no-repeat 0 -250px;
-    background-position-x: center;
+    background-position-x: 30%;
     text-align: center;
     color: #ffffff;
 }
