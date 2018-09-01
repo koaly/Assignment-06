@@ -93,7 +93,7 @@ header a:hover{
     min-height: 400px;
     background: url('https://i.imgur.com/MvJ7h1x.jpg') no-repeat 0 -250px;
     background-position-x: 30%;
-    background-size: cover;
+    background-size: inherit;
     text-align: center;
     color: #ffffff;
 }
