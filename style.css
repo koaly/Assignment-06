@@ -91,8 +91,9 @@ header a:hover{
 #showcase{
     
     min-height: 400px;
-    background: url('../img/showcase_music.jpg') no-repeat 0 -250px;
+    background: url('https://i.imgur.com/MvJ7h1x.jpg') no-repeat 0 -250px;
     background-position-x: 30%;
+    background-size: cover;
     text-align: center;
     color: #ffffff;
 }
